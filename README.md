@@ -8,8 +8,8 @@
   Link: https://www.jetbrains.com/pycharm/
   Link: https://code.visualstudio.com/
 
-Código
-O programa verifica dentro de um dicionário, já existente ou não, se existe os usuário e CPF cadastrado, se não, ele cadastra um novo usuário com CPF, claro que não exista.
+Código:
+O programa verifica dentro de um dicionário, já existente ou não, se existe os usuário e CPF cadastrado, se não, ele cadastra um novo usuário com CPF, claro, que não exista.
 
 Passo a Passo
 
